@@ -1,5 +1,5 @@
 import styles from "./UserList.module.css";
-import React, { useState } from "react";
+import React from "react";
 import Card from "../UI/Card/Card"
 
 const UserList = (props) => {
